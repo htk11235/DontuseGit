@@ -6,3 +6,8 @@ img src = "../img/picture.png"
 .
 
 git add va git commit luon di chung voi nhau
+git remote xong git push thi se xuat hien loi vi chua config github o local,
+
+git config --global user.name"thinhquocle"
+
+ 
