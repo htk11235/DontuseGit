@@ -1,3 +1,8 @@
 meta tag/?
 div tag/?
 img src = "../img/picture.png"
+.
+.
+.
+
+git add va git commit luon di chung voi nhau
